@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patryk Lachowicz and my nickname is @riftmat
 - 👀 I’m interested in creating responsive pages and programing
-- 🌱 I’m currently learning JavaScript, Html, Css, SEO and RWD
+- 🌱 I’m currently learning JavaScript, Html, Css, and React
 - 💞️ I’m looking for some basic orders and I'm willing to work for free in exchange for some advice and help geting commercial project experience
 
 <!---
